@@ -1,0 +1,16 @@
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\LevelEdit.exe
+C:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\LevelEdit.deps.json
+C:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\LevelEdit.runtimeconfig.json
+C:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\LevelEdit.runtimeconfig.dev.json
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\LevelEdit.dll
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\LevelEdit.pdb
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\NetNativeLibLoader.dll
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\Qml.Net.dll
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\QmlNet.dll
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\obj\Debug\netcoreapp3.1\LevelEdit.csprojAssemblyReference.cache
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\obj\Debug\netcoreapp3.1\LevelEdit.AssemblyInfoInputs.cache
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\obj\Debug\netcoreapp3.1\LevelEdit.AssemblyInfo.cs
+C:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\obj\Debug\netcoreapp3.1\LevelEdit.csproj.CopyComplete
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\obj\Debug\netcoreapp3.1\LevelEdit.dll
+c:\Users\ramsd\Google Drive\Dev\GameJamIUT\LevelEdit\obj\Debug\netcoreapp3.1\LevelEdit.pdb
